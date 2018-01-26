@@ -1,0 +1,70 @@
+@import url('https://fonts.googleapis.com/css?family=Nunito');
+
+body {
+	line-height: 0;
+	text-align: center;
+background-image: url("https://www.seoclerk.com/pics/want53221-1oDTx21501312887.jpg");
+}
+.welcomeClass, .inputFieldClass, .tryAgainClass {
+	font-family: 'arial', sans-serif;
+	font-size:20px;
+
+}
+.inputSpaceClass{
+font-family:Stencil Std, fantasy;
+font-size:30px;
+
+}
+.welcomeClass, #container, .colorsClass {
+	text-align:center;
+}
+#container {
+	margin: 0;
+	padding: 0;
+	margin-top: 30px;
+	margin-bottom: 10px;
+	 border: 2px solid #008CBA;
+}
+.boxClass {
+	width:10px;
+	height:10px;
+	display: inline-block;
+
+	margin: 0;
+	padding: 0;
+}
+.colorsClass {
+	display: inline-block;
+	height:40px;
+	width: 40px;
+}
+#myEraser{
+
+    background-color: white;
+    color: black;
+    border: 2px solid #008CBA;
+}
+
+#myEraser:hover {
+    background-color: #008CBA;
+    color: white;
+}
+
+#submitId{
+
+    background-color: white;
+    color: black;
+    border: 2px solid #008CBA;
+}
+
+#submitId:hover {
+    background-color: #008CBA;
+    color: white;
+}
+
+
+
+
+
+
+
